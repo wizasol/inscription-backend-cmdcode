@@ -1,0 +1,38 @@
+1. SETUP:
+
+    a) Edit the `.env` file. There are 2 different keypairs in `.env`:
+       - One is for paying all the SOL distribution fees.
+       - One is for creating the pool (they should have no ties). 
+       You can make it the same keypair if you want to test.
+
+2. SCRIPT FUNCTIONS:
+
+    NOTICE: Start by going sequentially through all steps.
+
+    A) Create keypairs (1). 
+       - This step is not needed for every launch, only when you want to ensure there is no SOL in them.
+
+    B) Premarket (2). 
+       - DO ALL STEPS 2-6 IN ORDER!
+       - After each step, check the Bundle ID to make sure it lands.
+       - If the bundle doesn't land, simply redo that step with a higher tip, then exit.
+       - Check here: https://explorer.jito.wtf/
+       - NOTE: When checking if the bundle landed, don't look at "Landed - no".
+         Check the first included transaction, and if it confirmed, then your bundle landed.
+
+    C) CREATE POOL (3). 
+       - To create a pool, just spam the function because sometimes it doesn't land.
+       - Either increase the tip or SPAM.
+       - A tip of 0.1 SOL or more is recommended to land within the first few tries.
+
+    D) SELL FEATURES (4/5). 
+       - Since the pool is now live, you can either SELL ALL keypairs at once using (4) 
+         and reclaim the WSOL in step 7 of Premarket (2) after you rug.
+       - You can also sell small percentages of the supply beforehand on demand (5).
+       - This is done by sending (input)% of every keypair's token balance to the fee payers, 
+         then selling it all in one singular bundle AND only on one wallet.
+
+    E) LP REMOVE (6). 
+       - If you don't burn your LP, it simply removes it.
+
+    https://github.com/bigmovers
