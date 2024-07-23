@@ -64,4 +64,4 @@ The Solana Raydium Bundler is a robust tool for managing multiple transactions o
 
 Optimize your Solana transactions today with the Solana Raydium Bundler!
 
-For more information, join our discord at [Discord] (https://discord.gg/solana-scripts)
+For more information, join our discord at [Discord](https://discord.gg/solana-scripts)
