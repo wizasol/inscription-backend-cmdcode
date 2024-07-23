@@ -2,6 +2,8 @@
 
 Welcome to the Solana Raydium Bundler, an open-source script designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. This powerful tool is perfect for users looking to manage multiple transactions efficiently and effectively.
 
+NOTE: This is an older-version of my Bundler, if you got any questions, DM me at t.me/benorizz0
+
 ## Getting Started
 
 To get started with the Solana Raydium Bundler, follow these steps to ensure a smooth setup and execution process.
