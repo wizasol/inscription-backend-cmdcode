@@ -56,14 +56,9 @@ Removing LP is straightforward:
 - **Secure Keypairs:** Keep your keypairs secure and ensure they are correctly configured in the `.env` file.
 - **Spam Wisely:** When spamming functions, monitor the transactions to avoid unnecessary SOL expenditure.
 
-## Additional Resources
-
-For more detailed instructions and updates, visit our Discord at https://discord.gg/solana-scripts . Here you will find comprehensive documentation and community support for any issues you encounter.
-
 ### Conclusion
 
 The Solana Raydium Bundler is a robust tool for managing multiple transactions on the Solana blockchain. By following the setup and script functions outlined above, you can efficiently handle buying and selling operations with ease. Join our community on Discord and take advantage of this powerful open-source solution.
 
 Optimize your Solana transactions today with the Solana Raydium Bundler!
 
-For more information, join our discord at [Discord](https://discord.gg/solana-scripts)
